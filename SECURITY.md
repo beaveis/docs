@@ -1,4 +1,4 @@
-# Security Policy
+Security is 1 please respectfully respect that
 
 ## Supported Versions
 
